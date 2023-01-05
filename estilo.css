@@ -1,0 +1,36 @@
+* {
+    box-sizing: border-box
+}
+
+body {
+    margin: 10px;
+}
+
+label{
+    display: block;
+}
+fieldset{
+    background-color: #eee;
+    margin-bottom: 20PX;
+    border: 2px solid #ccc;
+    border-radius: 20px;
+    color: #30312d;
+    width: 200px;
+    
+}
+legend{
+    background-color: #30312d;
+    border-radius: 20px;
+    color: whitesmoke;
+    padding: 4px;
+    
+}
+.botao:hover{
+    background-color: #30312d;
+    color: whitesmoke;
+}
+.botao{
+    color: #30312d;
+    background-color: #eee;
+    border: 2px solid #ccc;
+}
